@@ -59,7 +59,6 @@ export default function Layout(data: Lume.Data) {
         <link rel="stylesheet" href="/gfm.css" />
         <link rel="stylesheet" href="/styles.css" />
         <link rel="stylesheet" href="/overrides.css" />
-        <link rel="stylesheet" href="/style.css" />
         <link rel="stylesheet" href="/components.css" />
         <script type="module" defer src="/components.js"></script>
         <script type="module" defer src="/lint_rules.client.js"></script>
